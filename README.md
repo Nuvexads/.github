@@ -2,13 +2,8 @@
 
 [](https://github.com/Nuvexads)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Nuvexads)](https://github.com/VegaCSS/VegaCSS/stargazers)
-
-
- _   _                      _           
-| \ | |  _   _  __   __  __| | __  __   
-|  \| | | | | | \ \ / / / _` | \ \/ /   
-| |\  | | |_| |  \ V / | (_| |  >  <    
-|_| \_|  \__,_|   \_/   \__,_| /_/\_\   
+[![Discord](https://img.shields.io/discord/1263600787754324069?style=flat\&logo=discord\&label=Discord)
+](https://discord.gg/cwy4cbp5st)
 
 
 
