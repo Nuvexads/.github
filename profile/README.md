@@ -12,6 +12,8 @@ Siamo un team di **8 membri** che sviluppa bot per Discord.
 Il nostro progetto principale è **Nuvexa Partnership**, un bot dedicato alla gestione delle partnership tra server.  
 
 ---
+[![Discord Bots](https://top.gg/api/v1/widgets/large/746058115735748608)](https://top.gg//discord/servers/746058115735748608)
+---
 
 ## 🤖 Il bot Nuvexa Partnership
 Il bot è pensato per aiutare i server Discord a creare, gestire e monitorare partnership in modo **semplice e veloce**.  
