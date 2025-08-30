@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/discord/1263600787754324069?style=flat\&logo=discord\&label=Discord)
 ](https://discord.gg/cwy4cbp5st)
 
-
+---
 
 Benvenuto nell’organizzazione **Nuvexa**!  
 Siamo un team di **8 membri** che sviluppa bot per Discord.  
@@ -46,6 +46,16 @@ Stiamo lavorando a nuovi bot di **utility** e altre funzionalità che renderanno
 - 👥 Team attuale: 8 membri  
 - 📌 Progetto privato (non open source)  
 - 🎯 Focus: Community & Partnership  
+
+---
+
+# BUZZCORD STATS
+
+https://github.com/Nuvexads/BuzzCord
+
+[![GitHub commits since latest release](https://img.shields.io/github/commits-since/Nuvexads/BuzzCord/latest)](https://github.com/Nuvexads/BuzzCord/commits/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Nuvexads/BuzzCord)](https://github.com/Nuvexads/BuzzCord/commits/)
+[![Test Bot](https://github.com/Nuvexads/BuzzCord/actions/workflows/ci.yml/badge.svg)](https://github.com/Nuvexads/BuzzCord/actions/workflows/ci.yml)
 
 ---
 
