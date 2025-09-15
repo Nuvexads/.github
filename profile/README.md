@@ -5,9 +5,22 @@
 [![Discord](https://img.shields.io/discord/1263600787754324069?style=flat\&logo=discord\&label=Discord)
 ](https://discord.gg/cwy4cbp5st)
 
+
+
+<div align="center">
+
+# 👋 STATS
+
+
 ![Snake animation](https://raw.githubusercontent.com/Nuvexads/.github/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/Nuvexads/.github/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Ym0T&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Ym0T&hide_border=true">
+</picture>
+
+</div>
 
 ---
 
