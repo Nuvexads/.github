@@ -10,7 +10,7 @@ permissions:
 
 env:
   ORG_NAME: Nuvexads
-  GH_USER: Ym0T              # <-- cambia con il tuo username GitHub
+  GH_USER: Nuvexads              # <-- cambia con il tuo username GitHub
 
 jobs:
   build:
