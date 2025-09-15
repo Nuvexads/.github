@@ -26,6 +26,8 @@
 
 ---
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nuvexabot&theme=shades-of-purple&hide_border=true&locale=it&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nuvexabot&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Nuvexabot&hide_border=true">
