@@ -11,9 +11,20 @@
 
 # 👋 STATS
 
+---
+
+## Nel mentre guarda un serpente che magia i nostri commit
+
+---
 
 ![Snake animation](https://raw.githubusercontent.com/Nuvexads/.github/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/Nuvexads/.github/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+## Cooming Soon...
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nuvexabot&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00">
