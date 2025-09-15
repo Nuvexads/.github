@@ -63,4 +63,12 @@ Stiamo lavorando a nuovi bot di **utility** e altre funzionalità che renderanno
 
 ---
 
+### 💬 Contatta L'Assistenza!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assistenza@nuvexabot.it)
+
+*Contattaci!* 🤝
+
+---
+
 ✨ *Nuvexa – Un nuovo modo di fare partnership su Discord!*  
