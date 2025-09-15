@@ -1,0 +1,48 @@
+name: Update Org Profile README
+
+on:
+  schedule:
+    - cron: "0 7 * * *"    
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  ORG_NAME: Nuvexads
+  GH_USER: Ghosterers
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout org .github repo
+        uses: actions/checkout@v4
+
+      - name: Ensure profile directory exists
+        run: mkdir -p profile
+
+      - name: Generate profile/README.md
+        shell: bash
+        run: |
+          cat > profile/README.md <<'EOF'
+          <div align="center">
+
+          <h1>👋 Benvenuti in ${ORG_NAME}</h1>
+
+          <!-- Streak: usa l'utente impostato in GH_USER -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=${GH_USER}&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00">
+            <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=${GH_USER}&hide_border=true">
+          </picture>
+
+          </div>
+
+          EOF
+          # Espandi le variabili ENV nel file (ORG_NAME / GH_USER)
+          envsubst < profile/README.md > profile/README.tmp && mv profile/README.tmp profile/README.md
+
+      - name: Commit & push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile): update org README with streak card [skip ci]"
