@@ -1,4 +1,4 @@
-name: Update Org Profile README (Streak)
+name: Stats
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
 
 env:
   ORG_NAME: Nuvexads
-  GH_USER: Nuvexads              # <-- cambia con il tuo username GitHub
+  GH_USER: Nuvexabot             # <-- cambia con il tuo username GitHub
 
 jobs:
   build:
