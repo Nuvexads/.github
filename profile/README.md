@@ -12,7 +12,7 @@
 # 👋 STATS
 
 
-## Nel mentre guarda un serpente che magia i nostri commit
+## Nel mentre guarda un serpente che mangia i nostri commit
 
 
 ![Snake animation](https://raw.githubusercontent.com/Nuvexads/.github/output/github-contribution-grid-snake.svg#gh-light-mode-only)
