@@ -5,7 +5,17 @@
 [![Discord](https://img.shields.io/discord/1263600787754324069?style=flat\&logo=discord\&label=Discord)
 ](https://discord.gg/cwy4cbp5st)
 
+<div align="center">
 
+# 👋 Benvenuti in Nuvexads
+
+<!-- Streak card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Ym0T&theme=radical&hide_border=true&background=0D1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Ym0T&hide_border=true">
+</picture>
+
+</div>
 
 Benvenuto nell’organizzazione **Nuvexa**!  
 Siamo un team di **8 membri** che sviluppa bot per Discord.  
