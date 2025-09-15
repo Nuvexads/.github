@@ -4,6 +4,9 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/Nuvexads)](https://github.com/VegaCSS/VegaCSS/stargazers)
 [![Discord](https://img.shields.io/discord/1263600787754324069?style=flat\&logo=discord\&label=Discord)
 ](https://discord.gg/cwy4cbp5st)
+<a href="https://discord.nuvexabot.it" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Nuvexa%20Support%20Server&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 
 
 
