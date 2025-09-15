@@ -20,7 +20,7 @@
 
 ---
 
-## Cooming Soon...
+## Streaks
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nuvexabot&theme=shades-of-purple&hide_border=true&locale=it&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
