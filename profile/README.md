@@ -1,7 +1,7 @@
 # 🌐 Nuvexa
 
 [](https://github.com/Nuvexads)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Nuvexads)](https://github.com/VegaCSS/VegaCSS/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Nuvexads)](https://github.com/Nuvexads/.github/stargazers)
 [![Discord](https://img.shields.io/discord/1263600787754324069?style=flat\&logo=discord\&label=Discord)
 ](https://discord.gg/cwy4cbp5st)
 
